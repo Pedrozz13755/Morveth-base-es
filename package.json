@@ -1,0 +1,32 @@
+{
+  "name": "Morveth-Base",
+  "version": "1.0.0",
+  "description": "La corona no me fue entregada. La gané en el silencio de aquellos que intentaron doblegarme.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Morveth",
+    "dark",
+    "pedrozzMods",
+    "whatsapp",
+    "bot",
+    "chatbot",
+    "ai",
+    "ia"
+  ],
+  "author": "Pedrozz Mods",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "awesome-phonenumber": "^7.8.0",
+    "axios": "^1.15.2",
+    "baileys": "^7.0.0-rc.9",
+    "chalk": "4",
+    "form-data": "^4.0.5",
+    "node-cache": "^5.1.2",
+    "node-catbox": "^4.2.0",
+    "node-fetch": "^3.3.2"
+  }
+}
